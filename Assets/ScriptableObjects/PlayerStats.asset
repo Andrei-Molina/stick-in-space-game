@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c5f96425c365a46bca11442fe7060d, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 32768
+  jumpHeight: 15
+  jumpCutMultiplier: 0.5
+  coyoteTime: 0.15
+  jumpBufferTime: 0.15
+  fallAcceleration: -40
+  maxFallSpeed: -15
+  maxMoveSpeed: 8
+  groundAcceleration: 60
+  airAcceleration: 40
+  groundDeceleration: 70
+  airDeceleration: 50
+  grounderDistance: 0.05
+  groundingForce: -0.5
+  slopeCheckDistance: 0.3
+  maxSlopeAngle: 45
+  groundedFriction: {fileID: 6200000, guid: d2c46222111811e4e92ff42a83fd014c, type: 2}
+  airFriction: {fileID: 6200000, guid: c5800aa7ae9f7d146887ea5e7a9da4ce, type: 2}

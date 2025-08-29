@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Far Background
+  - Mid Background
+  - Near Background
+  - Far Midground
+  - Mid Midground
+  - Near Midground
+  - Far Foreground
+  - Mid Foreground
+  - Near Foreground
+  - Ground
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Far Background
+    uniqueID: 426020633
+    locked: 0
+  - name: Mid Background
+    uniqueID: 1970860321
+    locked: 0
+  - name: Near Background
+    uniqueID: 14763099
+    locked: 0
+  - name: Far Midground
+    uniqueID: 2289217247
+    locked: 0
+  - name: Mid Midground
+    uniqueID: 2862996793
+    locked: 0
+  - name: Near Midground
+    uniqueID: 548613861
+    locked: 0
+  - name: Far Foreground
+    uniqueID: 587566285
+    locked: 0
+  - name: Mid Foreground
+    uniqueID: 58369663
+    locked: 0
+  - name: Near Foreground
+    uniqueID: 3673185237
+    locked: 0
+  - name: Ground
+    uniqueID: 40846003
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f4e381c92f443f498bf79cd7261bdb3, type: 3}
+  m_Name: New Audio Library
+  m_EditorClassIdentifier: 
+  MusicClips:
+  - Id: Space Main Theme
+    Clip: {fileID: 8300000, guid: 44c25fdaf71c0304288a20d349fecdf0, type: 3}
+    Volume: 1
+  - Id: Exploring the new planets
+    Clip: {fileID: 8300000, guid: 3a87618d4c39c0a4fa954fd8085150d0, type: 3}
+    Volume: 1
+  SfxClips:
+  - Id: Meteor Fall
+    Clip: {fileID: 8300000, guid: b86eaee8227803942b198942f5b2c276, type: 3}
+    Volume: 1
+  - Id: Panting
+    Clip: {fileID: 8300000, guid: a9ebce32c004cc749bb809d82f8b0fa3, type: 3}
+    Volume: 1
